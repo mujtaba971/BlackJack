@@ -1,7 +1,7 @@
 # Blackjack Game
 
 ## Description
-This is a simple command-line based Blackjack game implemented in Python. The game allows players to play the classic casino card game of Blackjack against a computer dealer. Players can hit, stand, or double down to try and beat the dealer's hand without exceeding 21.
+This is a simple command-line based Blackjack game implemented in Javascript. The game allows players to play the classic casino card game of Blackjack against a computer dealer. Players can hit, stand, or double down to try and beat the dealer's hand without exceeding 21.
 
 ## Features
 - Play Blackjack against a computer dealer.
